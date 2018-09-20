@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="addStudentButton" type="id">addStudentButton</item>
+    <item name="studentListButton" type="id">studentListButton</item>
+    <item name="layoutNom" type="id">layoutNom</item>
+    <item name="editTextNom" type="id">editTextNom</item>
+    <item name="editTextPrenom" type="id">editTextPrenom</item>
+    <item name="birthDateButton" type="id">birthDateButton</item>
+    <item name="spinnerGroup" type="id">spinnerGroup</item>
+    <item name="radioGroupSex" type="id">radioGroupSex</item>
+    <item name="homme" type="id">homme</item>
+    <item name="femme" type="id">femme</item>
+    <item name="switchRedoublant" type="id">switchRedoublant</item>
+    <item name="editTextEmail" type="id">editTextEmail</item>
+    <item name="nomDetail" type="id">nomDetail</item>
+    <item name="prenomDetail" type="id">prenomDetail</item>
+    <item name="sexeDetail" type="id">sexeDetail</item>
+    <item name="emailDetail" type="id">emailDetail</item>
+    <item name="naissDetail" type="id">naissDetail</item>
+    <item name="groupeDetail" type="id">groupeDetail</item>
+    <item name="redoublantDetail" type="id">redoublantDetail</item>
+</resources>
